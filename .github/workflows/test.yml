@@ -4,9 +4,12 @@ on:
   push:
     branches: ["*"]
 
-# jobs:
-#   test:
-#     runs-on: ubuntu-latest
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉"
+    
 #     env:
 #       DATABASE_URL: postgresql://prisma:prisma@localhost:5433/tests
 #       JWT_SECRET: 3da541559918a808c2402bba5012f6c60b27661c
