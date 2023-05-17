@@ -1,7 +1,7 @@
 name: Merge main
 on:
   workflow_run:
-    workflows: [Create release]
+    workflows: [Create release, Create pre-release]
     types:
       - completed
 jobs:  
