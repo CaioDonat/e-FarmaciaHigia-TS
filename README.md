@@ -1,6 +1,10 @@
 [![Board Status](https://dev.azure.com/isteo-playground/340d83d5-1276-4bb8-9c45-72e40228520f/93c1501a-349d-489e-80f1-c79e63fc71b0/_apis/work/boardbadge/851c5ae9-8da4-40b3-9f65-102fdf58ba90)](https://dev.azure.com/isteo-playground/340d83d5-1276-4bb8-9c45-72e40228520f/_boards/board/t/93c1501a-349d-489e-80f1-c79e63fc71b0/Microsoft.RequirementCategory)
 # Project to try somes things in TypeScript
 
+## Status
+
+[![Board Status](https://dev.azure.com/isteo-playground/340d83d5-1276-4bb8-9c45-72e40228520f/93c1501a-349d-489e-80f1-c79e63fc71b0/_apis/work/boardbadge/851c5ae9-8da4-40b3-9f65-102fdf58ba90)](https://dev.azure.com/isteo-playground/340d83d5-1276-4bb8-9c45-72e40228520f/_boards/board/t/93c1501a-349d-489e-80f1-c79e63fc71b0/Microsoft.RequirementCategory/)
+
 ## Tech-stack
 
 * **Typescript** : 
